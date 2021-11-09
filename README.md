@@ -1,4 +1,4 @@
 # nox-python
-[] Primeiro
-[] Segundo
-[] Terceiro
+[x] Primeiro
+[x] Segundo
+[x] Terceiro
